@@ -5,6 +5,8 @@ In the 5th step I've melt the data down by 2 identifiers, other variables are ca
 ###ID
 > * activities
 > * subj
+
+
 ###Measurements
 
 * tBodyAcc-mean-Y
